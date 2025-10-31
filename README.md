@@ -140,11 +140,7 @@ To run the code and exercises, you'll need the following:
    * `tkinter` (for GUI development).
    * `sqlite3` (for database interactions).
 
-You can install the required libraries using pip:
 
-```bash
-pip install pygame tkinter
-```
 
 ## Contribution
 
